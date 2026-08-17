@@ -1,5 +1,5 @@
 import React from "react";
-import Student from "./student";
+import Student from "./Student";
 function App() {
 return (
 <div>

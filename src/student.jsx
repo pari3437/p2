@@ -10,4 +10,4 @@ return (
 </div>
 );
 }
-export default student; 
+export default Student; 
